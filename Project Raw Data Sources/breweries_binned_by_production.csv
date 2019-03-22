@@ -1,0 +1,15 @@
+﻿Size of Brewery,Brewery Type,No of Breweries 2007,No of Breweries 2008,No of Breweries 2009,No of Breweries 2010,No of Breweries 2011,No of Breweries 2012,No of Breweries 2013,No of Breweries 2014,No of Breweries 2015,No of Breweries 2016,No of Breweries 2017
+"6,000,001 Barrels and Over",Large Brewery,17,11,18,17,16,17,17,15,15,14,15
+"1,000,001 to 6,000,000 Barrels (5)",Regional Brewery,3,9,4,5,14,8,8,11,10,11,9
+"500,001 to 1,000,000 Barrels",Regional Brewery,10,7,7,9,11,7,7,6,7,6,10
+"100,001 to 500,000 Barrels",Regional Brewery,24,30,27,32,41,39,38,44,49,45,40
+"60,001 to 100,000 Barrels",Regional Brewery,20,20,19,16,16,20,24,20,24,38,41
+"30,001 to 60,000 Barrels",Regional Brewery,34,26,32,38,43,50,52,62,56,53,53
+"15,001 to 30,000 Barrels",Regional Brewery,26,43,40,40,42,44,51,62,71,75,99
+"7,501 to 15,000 Barrels",Microbrewery,41,40,42,51,63,77,81,102,133,148,152
+"1,001 to 7,500 Barrels",Microbrewery,356,360,357,428,513,564,645,730,851,935,"1,030"
+"1 to 1,000 Barrels ",Microbrewery,"1,088","1,142","1,232","1,178","1,334","1,604","1,923","2,321","2,812","3,771","4,199"
+Total,,"1,619","1,688","1,778","1,814","2,093","2,430","2,846","3,373","4,028","5,096","5,648"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
